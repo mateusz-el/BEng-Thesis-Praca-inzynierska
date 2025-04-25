@@ -1,6 +1,7 @@
 # BEng-Thesis-Praca-inzynierska
 
 POLISH
+Status projektu: zakończony 
 Tematem mojej pracy inżynierskiej było: ,,Ocena wpływu napylonych warstw metalicznych na parametry światłowodu". Badania przedstawione w pracy miały na celu ocenę wpływu napylonych warstw metalicznych na parametry, związane z wymuszonym rozpraszaniem Brillouina. Rozpraszanie to jest wykorzystywane w rozłożonych czujnikach temperatury, które stworzono i zbadano w tej pracy. Światłowody napylono aluminium, nie przekraczając jednak 1 µm grubości napylanych warstw. Następnie wykonano na nich badania w komorze termicznej w zakresie temperatur od 0 do 120°C, z krokiem co 10°C, a do wykonania pomiarów parametrów światłowodów wykorzystano reflektometr BOTDR. Stwierdzono, że zastosowane warstwy metaliczne były zbyt cienkie, aby mogły wpłynąć na zjawisko rozpraszania Brillouina.
 
 Zakres pracy:
@@ -16,6 +17,7 @@ Same badania wykonano za pomocą urządzenia BOTDR, w którym pod uwagę w szcze
 Wykazano, że wartości aluminium o grubości do 800 µm są zbyt cienkie, aby miały jakikolwiek znaczący wpływ na częstotliwość Brillouina. 
 
 ENGLISH
+Project Status: Completed
 The subject of my engineering thesis was: "Assessment of the influence of sputtered metallic layers on optical fiber parameters". The research presented in the thesis aimed to assess the influence of sputtered metallic layers on parameters related to stimulated Brillouin scattering. This scattering is used in distributed temperature sensors, which were created and tested in this thesis. Optical fibers were sputtered with aluminum, but the thickness of the sputtered layers did not exceed 1 µm. Then, they were tested in a thermal chamber in the temperature range from 0 to 120°C, in steps of 10°C, and a BOTDR reflectometer was used to measure the optical fiber parameters. It was found that the metallic layers used were too thin to affect the Brillouin scattering phenomenon.
 
 Scope of the work:
